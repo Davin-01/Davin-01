@@ -5,7 +5,7 @@ Hi, I'm Davin 👋<br>
  ⚡ Fun fact: I enjoy skating and photography.<br>
 
  🛠️ Languages and Tools<br>
- **Languages:** JavaScript, Python, Javascript<br>
+ **Languages:** JavaScript, Python, htmlk, CSS ,React<br>
  **Web:** HTML, CSS,javascript, React,Django<br>
  **Databases:** SQLite, MySQL<br>
   **Version Control:** Git, GitHub<br>
