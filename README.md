@@ -1,6 +1,6 @@
-Hi, I'm Davin 👋
- 🚀 About Me
-  👯 Open to **collaborations**
+Hi, I'm Davin 👋<br>
+ 🚀 About Me<br>
+  👯 Open to **collaborations**<be>
  💬 Ask me about **JavaScript, React, Django, Python, 
  ⚡ Fun fact: I enjoy skating and photography.
 
