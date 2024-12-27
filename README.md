@@ -1,12 +1,12 @@
 Hi, I'm Davin 👋<br>
  🚀 About Me<br>
-  👯 Open to **collaborations**<be>
- 💬 Ask me about **JavaScript, React, Django, Python, 
- ⚡ Fun fact: I enjoy skating and photography.
+  👯Am Open to **collaborations and full-stack projects that you might want someone to help you*<br>
+ 💬 Ask me about **JavaScript, React, Django, Python,<br>
+ ⚡ Fun fact: I enjoy skating and photography.<br>
 
- 🛠️ Languages and Tools
- **Languages:** JavaScript, Python, Javascript
- **Web:** HTML, CSS,javascript, React,Django
- **Databases:** SQLite, MySQL
-  **Version Control:** Git, GitHub
+ 🛠️ Languages and Tools<br>
+ **Languages:** JavaScript, Python, Javascript<br>
+ **Web:** HTML, CSS,javascript, React,Django<br>
+ **Databases:** SQLite, MySQL<br>
+  **Version Control:** Git, GitHub<br>
 
